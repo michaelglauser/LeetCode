@@ -1,4 +1,4 @@
-#Python3
+#Remove Duplicates from Sorted Array, Array
 class Solution:
   def removeDuplicates(self, nums: List[int]) -> int:
     k = 0
